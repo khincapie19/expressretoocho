@@ -1,0 +1,19 @@
+{
+  "name": "retoocho",
+  "version": "1.0.0",
+  "description": "visitors",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khincapie19/expressretoocho.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khincapie19/expressretoocho/issues"
+  },
+  "homepage": "https://github.com/khincapie19/expressretoocho#readme"
+}
