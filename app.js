@@ -10,7 +10,7 @@ var schema = mongoose.Schema({
   name: String
 });
 
-var Visitor = mongoose.model("Visitor", schema);
+var Visitor = mongoose.model('Visitor', schema);
 
 const app = express();
 
