@@ -15,7 +15,7 @@ var Visitor = mongoose.model('Visitor', schema);
 const app = express();
 
 app.get('/', (req,res) => {
-  let name = Object.keys(req.query).length ? req.query.nombre : 'Anónimo';
+  let name = Object.keys(req.query).length ? req.query.name : 'Anónimo';
   Visitor.create({ name: name }, function(err) {
     if (err) return console.error(err);
   });
