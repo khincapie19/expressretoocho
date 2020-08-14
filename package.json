@@ -15,7 +15,7 @@
   "dependencies": {
       "express": "^4.17.1",
       "mongoose": "^5.9.29"
-  }
+  },
   "bugs": {
     "url": "https://github.com/khincapie19/expressretoocho/issues"
   },
